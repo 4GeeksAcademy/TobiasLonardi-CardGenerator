@@ -1,5 +1,20 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: green;
+}
+
+.card-container{
+    height: 100vh;
+}
+
+.card{
+    height: 60vh;
+    width: 40vh;
+}
+
+.simbols{
+    font-size: 80px;
+    padding-left: 5px;
+    padding-right: 5px;
 }

@@ -36,4 +36,8 @@ window.onload = function() {
 
   })
 
+  let upsideDown = document.querySelector(".upside-down");
+
+  upsideDown.style.transform = "rotate(180deg)"
+
 };
